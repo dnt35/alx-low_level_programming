@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * resets_to_98 point an int as parameter
- * and update the vallue to 98
- * @n: input integer.
- * Return: void.
+ * resets_to_98 - updates the value of the variable
+ * the pointer points to 98
+ * @n: pointer to the variable to update
  */
 
 void reset_to_98(int *n)
