@@ -19,9 +19,8 @@ int main(void)
 		printf("zero   \n");
 
 	}
-	else {
-		printf("is negative \n");
-	}
+	else printf("is negative \n");
+	
 
 	/* your code goes there */
 	return (0);
